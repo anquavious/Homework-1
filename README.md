@@ -1,17 +1,6 @@
-# <Your-Project-Title>
+# <Horiseon>
 
-## Description
-
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
-- What problem does it solve?
-- What did you learn?
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
+## This browser application allows the marketing agency to provide a web based platform to showcase to businesses and clients how they can assist them with Search Engine Optimation, Online Reputation Management,and Social Media Marketing.This website expresses how to bring customers to companies websites and on how to control how and what the customer sees on the website for companies.
 
 - [Installation](#installation)
 - [Usage](#usage)
@@ -20,29 +9,24 @@ If your README is long, add a table of contents to make it easy for users to fin
 
 ## Installation
 
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+Create a new repository on your GitHub account and clone it to your computer.
 
+Navigate to your GitHub repository in the browser and then select the Settings tab on the right side of the page.
+
+On the Settings page, scroll down to the GitHub Pages section. Then, in the section labeled Source, select the `main` branch as your source.
+
+Navigate to <your-github-username.github.io/your-repository-name> and you will find that your new webpage has gone live! 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+![alt text](./assets/images/Horisean.PNG)
 
 ## Credits
 
-List your collaborators, if any, with links to their GitHub profiles.
-
-If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
-
-If you followed tutorials, include links to those here as well.
+Anquavious Grant
 
 ## License
 
-The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ---
 
